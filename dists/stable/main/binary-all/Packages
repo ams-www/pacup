@@ -1,0 +1,12 @@
+Package: pacup
+Version: 1.1
+Architecture: all
+Maintainer: kons10 <malum4678@gmali.com>
+Description: pacup is apt and flatpak and snap updater.
+Filename: pool/main/p/pacup-1.1_all.deb
+Size: 2028
+MD5sum: B6F1B607520DFAD71142A70D5DF083B5
+SHA1: 7F485E182E7536810A62D9060BCE9473316A4A21
+SHA256: E20B0B0AEDC04BB1A18A9B8EE0FED476EC3A9E54223ECC3F8AD237F86D1BCBAC
+Section: utils
+Priority: optional
